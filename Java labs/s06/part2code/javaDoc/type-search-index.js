@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.company","l":"Disease"},{"p":"com.company","l":"DiseaseLevel"},{"p":"com.company","l":"Doctor"},{"p":"com.company","l":"HealthManagementSystem"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"MedicalFile"},{"p":"com.company","l":"Patient"}]
