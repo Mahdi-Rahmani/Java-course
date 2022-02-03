@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.company","l":"Actions"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.company","l":"Board"},{"p":"com.company","l":"Castle"},{"p":"com.company","l":"Element"},{"p":"com.company","l":"Horse"},{"p":"com.company","l":"King"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"Soldier"}]

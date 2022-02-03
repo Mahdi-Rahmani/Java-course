@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1913ae1f-91ee-4e62-aa00-59bb0b5b7997" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jeGIGgIV9TqbEbOmmG6tot6iql" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="q5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1913ae1f-91ee-4e62-aa00-59bb0b5b7997" name="Default Changelist" comment="" />
+      <created>1604157062060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604157062060</updated>
+      <workItem from="1604157063413" duration="20764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1604162473865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604162473865" />
+    <state x="526" y="147" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604180447782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="147" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1604180447782" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1604256197324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604256197324" />
+    <state width="1493" height="30" key="GridCell.Tab.0.bottom" timestamp="1604256203614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="30" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604256203614" />
+    <state width="1493" height="30" key="GridCell.Tab.0.center" timestamp="1604256203613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="30" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604256203613" />
+    <state width="1493" height="30" key="GridCell.Tab.0.left" timestamp="1604256203612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="30" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604256203612" />
+    <state width="1493" height="30" key="GridCell.Tab.0.right" timestamp="1604256203613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="30" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604256203613" />
+    <state x="209" y="33" key="new project wizard" timestamp="1604256199892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604256199892" />
+  </component>
+</project>
